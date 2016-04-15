@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HtmlTextView/HtmlTextView.iml" filepath="$PROJECT_DIR$/HtmlTextView/HtmlTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my/my.iml" filepath="$PROJECT_DIR$/my/my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymaterialdesign/mymaterialdesign.iml" filepath="$PROJECT_DIR$/mymaterialdesign/mymaterialdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymvp/mymvp.iml" filepath="$PROJECT_DIR$/mymvp/mymvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeback/swipeback.iml" filepath="$PROJECT_DIR$/swipeback/swipeback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiuxiu/xiuxiu.iml" filepath="$PROJECT_DIR$/xiuxiu/xiuxiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiuyixiu/xiuyixiu.iml" filepath="$PROJECT_DIR$/xiuyixiu/xiuyixiu.iml" />
+    </modules>
+  </component>
+</project>

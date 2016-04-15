@@ -1,0 +1,1 @@
+include ':app', ':my', ':xiuyixiu', ':xiuxiu', ':rxjava', ':mymvp', ':swipeback', ':app1', ':HtmlTextView', ':mymaterialdesign'
